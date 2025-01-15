@@ -1,0 +1,9 @@
+name: my_kemal_app
+version: 0.1.0
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+dependencies:
+  pg:
+    github: will/crystal-pg
